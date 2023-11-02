@@ -34,7 +34,6 @@ Single Source Shortest Path
 
 
 ### Pseudocode
-
 ```java
 function dijkstra(g, n, s):
     vis = [false, false, ...]
@@ -67,3 +66,22 @@ function findShortestPath(g, n, s, e):
     path.reverse()
     return path
 ```
+
+
+## Procedure for Exam Taking
+
+
+### 1. Dijkstra's Algorithm
+1. Make a Priority Queue with `Node | Length to Node from Start`
+2. Another List that tracks the `final distance` of Node from Start
+* After removing from Priority Queue -> the `final distance` will be final, no more further operations can change the distance. (<sub><sup>this is due to Dijkstra's property: i.e; relaxation **always** fails on visisted nodes</sup></sub>)
+* Don't forget that the distance in PQ should be total distance from Start to "that" node. (*not just one single edge weight*)
+
+![Alt text](image-6.png)
+
+### 2. A* Algorithm
+1. Make a Priority Queue with `Node | Length to Node from Start + Heuristic of that* Node`
+2. Another List that tracks the `final actual distance` of Node from start `without heuristic`
+> :bulb: **Important:**
+<sub><sup> 1. Have similar properities with Dijkstra's but weighted towards the goal using a **Good** heuristic.</sub></sup>
+<sub><sup>2. If the algorithm has **Bad** heuristic, it will never reach the goal / result in a *not* shortest path.</sub></sup>
