@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "836c1529986eca32",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e45c3400f71ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6a2cf0b5d4bb2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d91b5f3254c5b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1685351692e68b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "693b667a62951816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07585c5fe9f9f9c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f33e86f39a0d10fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "23be27ebcf00654e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7fc09478fa05ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aba4c4f18b4ddd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6b6c7aff6c11d81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0acd817c6e00fa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2946a3d9e53662a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6de9eabd34539e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1a6a2cf0b5d4bb2d",
+  "lastOpenFiles": [
+    "graphs/test/electricPotental_delete.md",
+    "graphs/test/image-7.png",
+    "Excalidraw/Drawing 2023-12-06 23.14.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-06 22.44.04.excalidraw.md",
+    "CS 61B Topics.md",
+    "midterm1review.md",
+    "hashtable.md",
+    "static_vs_non-static.md",
+    "sortings/out/production/sortings/SelectionSort.md",
+    "Untitled.canvas",
+    "2023-12-06.md",
+    "asymptotic.md",
+    "Asymptotics.md",
+    "comparables_and_comparators.md",
+    "trees/red-black-tree.md",
+    "trees/image.png",
+    "sortings/SelectionSort.md",
+    "sortings/SortingNote.md",
+    "template.md",
+    "iterables_iterators.md",
+    "image-2.png",
+    "dynamic_method_selection.md",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "disjointset.md"
+  ]
+}
